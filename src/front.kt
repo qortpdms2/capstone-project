@@ -1,4 +1,5 @@
 fun main(){
-    println("hello world!")
-    println("hello world!")
+    for (x in 1..10){
+        println(x)
+    }
 }
